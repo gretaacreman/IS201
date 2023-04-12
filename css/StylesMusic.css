@@ -1,42 +1,42 @@
 #Top{
-    text-decoration: underline;
+    text-decoration: underline !important;
 }
 
 dt{
-    font-weight: bold;
+    font-weight: bold !important;
 }
 
 .emphasizedtext{
-    font-style: italic;
-    font-size: larger;
-    font-weight: bolder;
-    color:rgb(2, 109, 31)
+    font-style: italic !important;
+    font-size: larger !important;
+    font-weight: bolder !important;
+    color:rgb(2, 109, 31) !important;
 }
 
 body{
-    background-color:rgb(249, 172, 131);
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    border: 5px solid black;
-    margin:1px;
-    padding: 15px;
+    background-color:rgb(249, 172, 131) !important;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+    border: 5px solid black !important;
+    margin:1px !important;
+    padding: 15px !important;
 }
 
 .myDiv{
-    text-align: center;
-    background-color: black;
-    color: aliceblue;
-    height: 90px;
+    text-align: center !important;
+    background-color: black !important;
+    color: aliceblue !important;
+    height: 90px !important;
 }
 
 .myDiv2{
-    text-align: center;
-    font-weight: bold;
-    font-size: medium;
-    color: rgb(2, 109, 31);
+    text-align: center !important;
+    font-weight: bold !important;
+    font-size: medium !important;
+    color: rgb(2, 109, 31) !important;
 }
 
 .div3{
-    text-align: center; 
-    color: darkslategrey;
-    text-decoration:underline;
+    text-align: center !important; 
+    color: darkslategrey !important;
+    text-decoration:underline !important;
 }
