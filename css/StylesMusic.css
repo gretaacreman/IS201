@@ -1,0 +1,42 @@
+#Top{
+    text-decoration: underline;
+}
+
+dt{
+    font-weight: bold;
+}
+
+.emphasizedtext{
+    font-style: italic;
+    font-size: larger;
+    font-weight: bolder;
+    color:rgb(2, 109, 31)
+}
+
+body{
+    background-color:rgb(249, 172, 131);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px solid black;
+    margin:1px;
+    padding: 15px;
+}
+
+.myDiv{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    height: 90px;
+}
+
+.myDiv2{
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+    color: rgb(2, 109, 31);
+}
+
+.div3{
+    text-align: center; 
+    color: darkslategrey;
+    text-decoration:underline;
+}
